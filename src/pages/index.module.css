@@ -1,0 +1,78 @@
+/**
+ * CSS files with the .module.css suffix will be treated as CSS modules
+ * and scoped locally.
+ */
+
+ .heroBanner {
+  flex-grow: 1;
+  padding: 4rem 0;
+  display: relative;
+  text-align: center;
+  overflow: hidden;
+}
+
+@media screen and (max-width: 996px) {
+  .heroBanner {
+      padding: 2rem;
+  }
+}
+
+.buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.videoContainer {
+  width: 100%;
+  height: 100vh; /* 100% of screen */
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.video {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.videoContainerContent {
+  position: relative;
+  z-index: 1;
+  padding: 5px 10px;
+  text-align: center;
+  color: #fff;
+  font-size: 32px;
+}
+
+.videoContainerContentTitle {
+  font-weight: bold;
+  font-size: 155px;
+  
+}
+
+.videoContainerContentTitle::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 75px; /* Adjust the distance of the underline from the text */
+  width: 100%;
+  height: 2px; /* Adjust the thickness of the underline */
+  background-color: white; /* Adjust the color of the underline */
+  display: block;
+  margin-top: 10px; /* Adjust the space between the text and the underline */
+}
+
+.videoContainerContentText {
+  margin-top: -70px;
+  margin-bottom: -25px;
+  font-weight: lighter;
+  font-size: 73px
+}
+.blur {
+  filter: blur(2px); /* Adjust the blur amount as desired */
+}
