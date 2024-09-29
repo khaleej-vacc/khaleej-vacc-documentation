@@ -32,3 +32,4 @@ Please be advised runway **30L/12R** is no longer active and is only utilized as
 | 12L | 2530 x 43 | 0% | 120° | 2 |
 
 ### Declared Distances
+
