@@ -31,9 +31,9 @@ Please be advised runway **30L/12R** is no longer active and is only utilized as
 | 30R | 2530 x 43 | 0.0% | 300° | 2 |
 | 12L | 2530 x 43 | 0.0% | 120° | 2 |
 
-### Declared Distances (Takeoff)
+### 1.2.2 Declared Distances (Takeoff)
 
-#### 1.2.2 Runway 30R
+#### Runway 30R
 
 | **Intersection** | **Takeoff Run  Available (TORA)** | **Accelerate Stop Distance Available (ASDA)** |
 |:---:|:---:|:---:|
@@ -43,7 +43,7 @@ Please be advised runway **30L/12R** is no longer active and is only utilized as
 | **A7** | 2606m | 2606m |
 | **A5** | 2152m | 2152m |
 
-#### 1.2.3 Runway 12L
+#### Runway 12L
 
 | **Intersection** | **Takeoff Run  Available (TORA)** | **Accelerate Stop Distance Available (ASDA)** |
 |:---:|:---:|:---:|
@@ -52,7 +52,7 @@ Please be advised runway **30L/12R** is no longer active and is only utilized as
 | **A2** | 3414m | 3414m |
 | **A3** | 2801m | 2801m |
 
-### 1.2.4 Declared Distances (Landing)
+### 1.2.3 Declared Distances (Landing)
 
 | **Runway** | **Landing Distance Available (LDA)** |
 |:---:|:---:|
@@ -85,8 +85,30 @@ Bahrain International Airport (OBBI) is a fully controlled airport.
 # 2. Clearance Delivery (Bahrain Delivery)
 # 2.1 General Provisions
 
-Airway clearance delivery (DLV) is responsible for validating routes and shall provide IFR clearance to departing aircraft.
+Clearance Delivery (DLV) is responsible for verifying and issuing IFR clearances to departing aircraft.
 
-Where the flight plan contains an invalid route, level or procedure, DLV must ensure that the error is corrected before the aircraft is given its clerance.
+If a flight plan contains errors like an invalid route, altitude, or procedure, DLV must correct it before issuing the clearance to the pilot.
 
-DLV is also responsible for minimizing taxiway delays and taxiway congestion for departing aircraft. During time of increased departure activity. aircraft are held at the gate to save fuel and lessen taxiway congestion.
+DLV also manages taxiway congestion and aims to reduce taxi delays. During peak departure times, aircraft may be held at the gate to conserve fuel and prevent taxiway congestion.
+
+## 2.2 Departure Clearance
+### 2.2.1 General
+
+DLV is responsible for issuing clearances for departing aircraft. Pilots may be expected to report the following information on first contact:
+
+- Callsign
+- Aircraft Type
+- Parking Stand
+- Destination
+- Requested Flight Level
+
+### 2.2.2 IFR Clearance
+An IFR Clearance shall be in the following format:
+- Callsign
+- Cruise Level
+- Airway and Bahrain FIR exit point
+- Initially cleared altitude
+- Assigned SSR code
+
+### 2.2.3 Phraseology
+**Example:**
