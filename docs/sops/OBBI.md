@@ -15,7 +15,7 @@ Established in 1927, Bahrain International, is the Persian Gulf's oldest interna
 
 ## 1.1 Aerodrome Details
 | **Airport ICAO** | **Airport Name** | **Airport Coordinates** | **Airport Runways** | **Airport Elevation** | **Transition Altitude/Level** |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 | OBBI | Bahrain International Airport | N26 16.3 E050 38.0 | 30R/12L | 8ft | 13000 ft / FL150 |
 
 ## 1.2 Runway
@@ -26,10 +26,10 @@ Please be advised runway **30L/12R** is no longer active and is only utilized as
 ::::
 ### 1.2.1 Runway Characteristics
 
-| **Name** | **Dimensions (m)** | **Slope** | **Bearing** | **Elevation (m)** |
+| **Name** | **Dimensions** | **Slope** | **Bearing** | **Elevation** |
 |:---:|:---:|:---:|:---:|:---:|
-| 30R | 2530 x 43 | 0.0% | 300° | 2 |
-| 12L | 2530 x 43 | 0.0% | 120° | 2 |
+| 30R | 2530m x 43m | 0.0% | 300° | 2m |
+| 12L | 2530m x 43m | 0.0% | 120° | 2m |
 
 ### 1.2.2 Declared Distances (Takeoff)
 
@@ -38,7 +38,7 @@ Please be advised runway **30L/12R** is no longer active and is only utilized as
 | **Intersection** | **Takeoff Run  Available (TORA)** | **Accelerate Stop Distance Available (ASDA)** |
 |:---:|:---:|:---:|
 | **Full Length** | 3964m | 3964m |
-| **Displ Thresh** | 3653m | 3653m |
+| **Displ Threshold** | 3653m | 3653m |
 | **A8** | 3150m | 3150m |
 | **A7** | 2606m | 2606m |
 | **A5** | 2152m | 2152m |
@@ -48,7 +48,7 @@ Please be advised runway **30L/12R** is no longer active and is only utilized as
 | **Intersection** | **Takeoff Run  Available (TORA)** | **Accelerate Stop Distance Available (ASDA)** |
 |:---:|:---:|:---:|
 | **Full Length** | 3964m | 3964m |
-| **Displ Thresh** | 3653m | 3653m |
+| **Displ Threshold** | 3653m | 3653m |
 | **A2** | 3414m | 3414m |
 | **A3** | 2801m | 2801m |
 
@@ -114,14 +114,31 @@ An IFR Clearance shall be in the following format:
 
 ### 2.2.3 Phraseology
 
+**Pilot:**
+> **"Bahrain Delivery, Good Evening, GFA512,Type B789, Stand 18, Request IFR Clearance to Dubai International as filed."**
+
 **Controller:**
-> **GFA123, Bahrain Delivery, CLEARED TO DUBAI INTERNATIONAL FL250 VIA N697 SODAK, EXPECT RADAR VECTORS AFTER DEPARTURE, MAINTAIN ALTITUDE 4000 FEET, SQUAWK 4411**
+> **"GFA512, Bahrain Delivery, CLEARED TO DUBAI INTERNATIONAL FL250 VIA N697 SODAK, EXPECT RADAR VECTORS AFTER DEPARTURE, MAINTAIN ALTITUDE 4000 FEET, SQUAWK 4411"**
 
 DLV must ensure a complete and accurate readback of the clearance from the pilot to confirm all details are understood. If the pilot fails to report the current ATIS letter during initial contact, DLV must provide the correct ATIS letter along with the current QNH setting.
 
-**Controller:**
-> **“GFA123, READBACK CORRECT, INFORMATION CHARLIE, QNH 1008, REPORT READY FOR PUSHBACK”**
+**Pilot:**
+> **"CLEARED TO DUBAI INTERNATIONAL FL250 VIA N697 SODAK, EXPECT RADAR VECTORS AFTER DEPARTURE, MAINTAIN ALTITUDE 4000 FEET, SQUAWK 4411, GFA512"**
 
-Departing aircraft shall be instructed to remain on the delivery frequency and report ready for push
-before being handed off to SMC. This is so aircraft may be held at the gate, as per procedures laid
-down in 2.6.
+**Controller:**
+> **"GFA512, READBACK CORRECT, INFORMATION Alpha, QNH 998 Hecto-Pascals, REPORT READY FOR PUSHBACK"**
+
+**Pilot:**
+> **"Information A, QNH 998 Hecto-Pascals, WILL REPORT READY FOR PUSHBACK, GFA512"**
+
+Departing aircraft must remain on the delivery frequency and report when ready for pushback before being handed off to the Surface Movement Controller (SMC). This allows aircraft to be held at the gate, following the procedures outlined in Section 2.6.
+
+**Pilot:**
+> **“Ready for PUSHBACK, GFA512”**
+
+**Controller:**
+> **“GFA512, HOLD POSITION, Contact Ground 121.850.”**
+
+**Pilot:**
+> **“WILCO Ground 121.850, GFA512”**
+
