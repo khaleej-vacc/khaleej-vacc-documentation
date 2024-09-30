@@ -28,8 +28,33 @@ Please be advised runway **30L/12R** is no longer active and is only utilized as
 
 | **Name** | **Dimensions (m)** | **Slope** | **Bearing** | **Elevation (m)** |
 |:---:|:---:|:---:|:---:|:---:|
-| 30R | 2530 x 43 | 0% | 300° | 2 |
-| 12L | 2530 x 43 | 0% | 120° | 2 |
+| 30R | 2530 x 43 | 0.0% | 300° | 2 |
+| 12L | 2530 x 43 | 0.0% | 120° | 2 |
 
-### Declared Distances
+### Declared Distances (Takeoff)
 
+#### Runway 30R
+
+| **Intersection** | **Takeoff Run  Available (TORA)** | **Accelerate Stop Distance Available (ASDA)** |
+|:---:|:---:|:---:|
+| **Full Length** | 3964m | 3964m |
+| **Displ Thresh** | 3653m | 3653m |
+| **A8** | 3150m | 3150m |
+| **A7** | 2606m | 2606m |
+| **A5** | 2152m | 2152m |
+
+#### Runway 12L
+
+| **Intersection** | **Takeoff Run  Available (TORA)** | **Accelerate Stop Distance Available (ASDA)** |
+|:---:|:---:|:---:|
+| **Full Length** | 3964m | 3964m |
+| **Displ Thresh** | 3653m | 3653m |
+| **A2** | 3414m | 3414m |
+| **A3** | 2801m | 2801m |
+
+### Declared Distances (Landing)
+
+| **Runway** | **Landing Distance Available (LDA)** |
+|:---:|:---:|
+| 30R | 3657m |
+| 12L | 3657m |
