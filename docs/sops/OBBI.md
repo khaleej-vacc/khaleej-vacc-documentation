@@ -111,4 +111,11 @@ An IFR Clearance shall be in the following format:
 - Assigned SSR code
 
 ### 2.2.3 Phraseology
-**Example:**
+
+**Controller:**
+> **GFA123, Bahrain Delivery, CLEARED TO DUBAI INTERNATIONAL FL250 VIA N697 SODAK, EXPECT RADAR VECTORS AFTER DEPARTURE, MAINTAIN ALTITUDE 4000 FEET, SQUAWK 4411**
+
+DLV shall obtain a full readback of the clearance. If the pilot does not report the current ATIS letter on first contact, DLV shall pass the current ATIS letter and QNH.
+
+**Controller:**
+> **“GFA123, READBACK CORRECT, INFORMATION CHARLIE, QNH 1008, REPORT READY FOR PUSHBACK”**
