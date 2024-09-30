@@ -82,6 +82,8 @@ Bahrain International Airport (OBBI) is a fully controlled airport.
 | Bahrain Delivery | OBBI_DEL | DLV | 121.900 |
 | Bahrain Information | OBBI_ATIS | ATIS | 127.900 |
 
+---
+
 # 2. Clearance Delivery (Bahrain Delivery)
 # 2.1 General Provisions
 
@@ -115,7 +117,11 @@ An IFR Clearance shall be in the following format:
 **Controller:**
 > **GFA123, Bahrain Delivery, CLEARED TO DUBAI INTERNATIONAL FL250 VIA N697 SODAK, EXPECT RADAR VECTORS AFTER DEPARTURE, MAINTAIN ALTITUDE 4000 FEET, SQUAWK 4411**
 
-DLV shall obtain a full readback of the clearance. If the pilot does not report the current ATIS letter on first contact, DLV shall pass the current ATIS letter and QNH.
+DLV must ensure a complete and accurate readback of the clearance from the pilot to confirm all details are understood. If the pilot fails to report the current ATIS letter during initial contact, DLV must provide the correct ATIS letter along with the current QNH setting.
 
 **Controller:**
 > **“GFA123, READBACK CORRECT, INFORMATION CHARLIE, QNH 1008, REPORT READY FOR PUSHBACK”**
+
+Departing aircraft shall be instructed to remain on the delivery frequency and report ready for push
+before being handed off to SMC. This is so aircraft may be held at the gate, as per procedures laid
+down in 2.6.
