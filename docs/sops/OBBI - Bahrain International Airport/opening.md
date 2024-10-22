@@ -1,6 +1,6 @@
 ---
 title: OBBI - Bahrain International Airport
-slug: OBBI_BIA
+slug: opening
 ---
 
 ### Bahrain International Airport SOP Details:
