@@ -3,7 +3,9 @@ title: OBBI - Bahrain International Airport
 slug: opening
 ---
 
-### Bahrain International Airport SOP Details:
+### SOP Details:
+This document outlines the general operating procedures for Bahrain International Airport. 
+
 | **Document Type**   | Standard Operating Procedures |
 |---------------------|-------------------------------|
 | **Revision Date**   | 01 November 2024              |
@@ -19,3 +21,7 @@ slug: opening
 | **Delivery [DEL]** |      1.0     | Initial Release |        Syed Moiz        |  Rashid Raikhy  |
 |                    |              |                 |                         |                 |
 |                    |              |                 |                         |                 |
+
+## Limitation of Liability
+This document is intended solely for use on the VATSIM network and is not suitable for real-world aviation operations. The authors are not responsible for any personal injury or death resulting from improper use of this document. 
+
