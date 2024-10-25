@@ -1,5 +1,5 @@
 ---
-title: OBBI - Bahrain International Airport
+title: OKKK - Kuwait International Airport
 slug: kopening
 ---
 
