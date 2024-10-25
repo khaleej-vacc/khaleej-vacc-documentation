@@ -10,7 +10,7 @@ This document outlines the general operating procedures for Bahrain Internationa
 |---------------------|-------------------------------|
 | **Revision Date**   | 01 November 2024              |
 | **Effective Date**  | 01 November 2024              |
-| **Prepared By**     | Syed Moiz; Ismail Hassan      |
+| **Prepared By**     | Syed Moiz Uddin; Ismail Hassan      |
 | **Approved By**     | Rashid Raikhy                 |
 | **Next review due** | 01 May 2025                   |
 
@@ -18,7 +18,7 @@ This document outlines the general operating procedures for Bahrain Internationa
 ## Revision Record
 |     **Section**    | **Revision** |   **Changes**   | **Prepared/Revised By** | **Approved By** |
 |:------------------:|:------------:|:---------------:|:-----------------------:|:---------------:|
-| **Delivery [DEL]** |      1.0     | Initial Release |        Syed Moiz        |  Rashid Raikhy  |
+| **Delivery [DEL]** |      1.0     | Initial Release |        Syed Moiz Uddin        |  Rashid Raikhy  |
 |                    |              |                 |                         |                 |
 |                    |              |                 |                         |                 |
 
