@@ -3,7 +3,7 @@ title: OKKK - Kuwait International Airport
 slug: kopening
 ---
 
-## SOP Details:
+## SOP Details
 This document outlines the general operating procedures for Bahrain International Airport. 
 
 | **Document Type**   | Standard Operating Procedures |
