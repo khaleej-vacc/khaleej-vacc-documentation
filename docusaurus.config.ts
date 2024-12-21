@@ -64,9 +64,9 @@ const config: Config = {
       },
       {
           type: "docSidebar",
-          sidebarId: "supSidebar",
+          sidebarId: "refSidebar",
           position: "left",
-          label: "Supplementary Guides",
+          label: "Reference Documents",
       },
       {
           type: "docSidebar",
