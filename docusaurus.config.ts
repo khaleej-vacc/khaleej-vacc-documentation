@@ -74,6 +74,12 @@ const config: Config = {
           position: "left",
           label: "Training vMATS",
       },
+      {
+        type: "docSidebar",
+        sidebarId: "PtdSidebar",
+        position: "left",
+        label: "Pilot Briefing",
+    },
       ],
     },
     footer: {
