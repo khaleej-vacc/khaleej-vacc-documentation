@@ -34,3 +34,7 @@ table {
   width: initial;
   margin: 0 auto;
 }
+
+.center-align {
+  text-align: center;
+}
