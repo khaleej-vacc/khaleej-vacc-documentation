@@ -8,8 +8,8 @@ This document outlines the general operating procedures for Bahrain Internationa
 
 | **Document Type**   | Kuwait Pilot Briefing |
 |---------------------|-------------------------------|
-| **Revision Date**   | 30 January 2025              |
-| **Effective Date**  | 30 January 2025              |
+| **Revision Date**   | 04th February 2025              |
+| **Effective Date**  | 07th February 2025              |
 | **Prepared By**     | Rashid Raikhy     |
 
 
