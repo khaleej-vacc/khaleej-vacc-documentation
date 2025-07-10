@@ -1,6 +1,6 @@
 ---
 title: Departing Bahrain Intl.
-slug: BahrainPTD
+slug: BahrainDep
 ---
 #### Bahrain International Airport (OBBI/BAH) | Pilot Briefing
 
