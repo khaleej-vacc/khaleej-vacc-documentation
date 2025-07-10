@@ -1,8 +1,8 @@
 ---
-title: Arriving into Bahrain Intl.
+title: Arrival Briefing
 slug: BahrainArr
 ---
-#### Bahrain International Airport (OBBI/BAH) | Pilot Briefing
+#### Bahrain International Airport (OBBI/BAH)
 
 ### Standard Terminal Arrival Routes (STARs)
 
@@ -13,6 +13,7 @@ Bahrain has 3 stars. They are applicable to both 12L and 30R.
 |       Eastern Arrivals          |       ORDIG1       |
 |      Northern Arrivals        |       KOBOK1        |
 |      Western Arrivals        |       LADNA1        |
+
 
 A heading of **120°** will be flown after **NAGAT** in the 30L configuration unless advised otherwise by ATC.
 
@@ -43,6 +44,7 @@ Due to Bahrain’s small TMA, pilots are advised to remain vigilant and maintain
 |      210 - 190 Knots        |       Downwind leg        |
 |      190 - 160 Knots        |       Final Approach        |
 
+
 ::::info Note:
 Pilots may be asked to maintain a speed until a certain mile final (e.g. 160 Knots until 4 DME).
 ::::
@@ -71,6 +73,7 @@ When vacating, ensure the hold short line has been passed.
 |:---------------------------:|:---------------------:|:---------------------:|
 |       **30R**          |       300°       |       2500ft       |
 |       **12L**          |       120°       |       2500ft       |
+
 
 In the event of a missed approach/go around, pilots shall follow the standard missed approach procedure as charted unless advised otherwise by ATC.
 
