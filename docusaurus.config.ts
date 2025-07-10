@@ -4,7 +4,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'Khaleej vACC',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'Official documentation site of the Khaleej vACC.',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
