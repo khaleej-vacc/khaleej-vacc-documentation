@@ -1,8 +1,8 @@
 ---
-title: Departing Bahrain Intl.
+title: Departure Briefing
 slug: BahrainDep
 ---
-#### Bahrain International Airport (OBBI/BAH) | Pilot Briefing
+#### Bahrain International Airport (OBBI/BAH)
 
 ### Requesting Clearance
 
@@ -47,6 +47,10 @@ Taxiway A incorporates the remains of the **closed** runway 30L/12R and does not
 
 The standard departure intersection is **A9** for Runway 30R, and **A1** for Runway 12L.
 
+- Advise Bahrain Tower if unable to immediately depart upon reaching the holding point.
+- Fly the heading provided by Bahrain Tower when airborne.
+- Tune the Bahrain Approach frequency (**127.850 Mhz**) in your standby frequency before lining up.
+
 |     **Intersections (30R)**     |   **TORA** (m)  |
 |:---------------------------:|:---------------------:|
 |       **A9**          |       3964       |
@@ -60,9 +64,7 @@ The standard departure intersection is **A9** for Runway 30R, and **A1** for Run
 |      A2        |       3414        |
 |      A3        |       2801        |
 
-- Advise Bahrain Tower if unable to immediately depart upon reaching the holding point.
-- Fly the heading provided by Bahrain Tower when airborne.
-- Tune the Bahrain Approach frequency (**127.850 Mhz**) in your standby frequency before lining up.
+
 
 ::::danger Note:
 When airborne, ensure you fly the heading given by Bahrain Tower and do not direct to a fix/waypoint without being told to do so.
