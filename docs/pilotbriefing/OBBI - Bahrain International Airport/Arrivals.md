@@ -38,16 +38,15 @@ Due to Bahrain’s small TMA, pilots are advised to remain vigilant and maintain
 
 ### Speed Restrictions
 
+::::info Note:
+Pilots may be asked to maintain a speed until a certain mile final (e.g. 160 Knots until 4 DME).
+::::
+
 |     **Speeds**     |   **Position**   |
 |:---------------------------:|:---------------------:|
 |       230 - 210 Knots          |       Entering the TMA       |
 |      210 - 190 Knots        |       Downwind leg        |
 |      190 - 160 Knots        |       Final Approach        |
-
-
-::::info Note:
-Pilots may be asked to maintain a speed until a certain mile final (e.g. 160 Knots until 4 DME).
-::::
 
 ---
 
@@ -69,13 +68,12 @@ When vacating, ensure the hold short line has been passed.
 
 ### Missed Approach Procedure
 
+In the event of a missed approach/go around, pilots shall follow the standard missed approach procedure as charted unless advised otherwise by ATC.
+
 |     **Runway**     |   **Heading**   |   **Altitude**   |
 |:---------------------------:|:---------------------:|:---------------------:|
 |       **30R**          |       300°       |       2500ft       |
 |       **12L**          |       120°       |       2500ft       |
-
-
-In the event of a missed approach/go around, pilots shall follow the standard missed approach procedure as charted unless advised otherwise by ATC.
 
 ---
 
