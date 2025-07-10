@@ -1,6 +1,6 @@
 ---
 title: Arriving into Bahrain Intl.
-slug: BahrainPTA
+slug: BahrainArr
 ---
 #### Bahrain International Airport (OBBI/BAH) | Pilot Briefing
 
