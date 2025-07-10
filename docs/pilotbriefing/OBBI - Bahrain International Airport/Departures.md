@@ -1,8 +1,8 @@
 ---
-title: Departing Bahrain Intl.
+title: Departure Briefing
 slug: BahrainDep
 ---
-#### Bahrain International Airport (OBBI/BAH) | Pilot Briefing
+#### Bahrain International Airport (OBBI/BAH)
 
 ### Requesting Clearance
 
