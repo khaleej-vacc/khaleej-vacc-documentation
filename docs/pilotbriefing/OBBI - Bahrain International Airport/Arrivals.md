@@ -41,7 +41,7 @@ Due to Bahrain’s small TMA, pilots are advised to remain vigilant and maintain
 |:---------------------------:|:---------------------:|
 |       230 - 210 Knots          |       Entering the TMA       |
 |      210 - 190 Knots        |       Downwind leg        |
-|      180 - 160 Knots        |       Final Approach        |
+|      190 - 160 Knots        |       Final Approach        |
 ####	
 ::::info Note:
 Pilots may be asked to maintain a speed until a certain mile final (e.g. 160 Knots until 4 DME).
