@@ -57,15 +57,13 @@ The standard departure intersection is **A9** for Runway 30R, and **A1** for Run
 |      A8        |       3150        |
 |      A7        |       2606        |
 |      A5        |       2152        |
-
+####	
 |     **Intersections (12L)**     |   **TORA** (m)  |
 |:---------------------------:|:---------------------:|
 |       **A1**          |       3964       |
 |      A2        |       3414        |
 |      A3        |       2801        |
-
-
-
+####	
 ::::danger Note:
 When airborne, ensure you fly the heading given by Bahrain Tower and do not direct to a fix/waypoint without being told to do so.
 ::::
@@ -85,18 +83,6 @@ Due to Bahrain’s small TMA, pilots are advised to remain vigilant and maintain
 
 ---
 
-### Frequencies
-
-|     **Radio Callsign**     |   **Logon Callsign**  | **Frequency (MHz)** |
-|:---------------------------:|:---------------------:|:-------------------:|
-|       Bahrain ATIS          |       OBBI_ATIS       |       127.200       |
-|      Bahrain Delivery        |       OBBI_DEL        |       121.900       |
-|       Bahrain Ground         |       OBBI_GND        |       121.850       |
-|       Bahrain Tower          |       OBBI_TWR        |       118.500       |
-|      Bahrain Approach        |       OBBI_APP        |       127.850       |
-|       Bahrain Radar          |       OBBB_1_CTR        |       127.525       |
-
----
 ### Additional Notes
 
 - When asked to **monitor** the next frequency, simply tune the frequency and wait for further instructions. No transmission is required from your end.
