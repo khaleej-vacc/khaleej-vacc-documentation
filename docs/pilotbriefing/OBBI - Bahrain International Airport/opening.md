@@ -1,6 +1,6 @@
 ---
 title: Airport Information
-slug: BahrainPTD
+slug: BahrainInfo
 ---
 
 # General Information
