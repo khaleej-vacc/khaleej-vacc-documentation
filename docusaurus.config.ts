@@ -90,7 +90,7 @@ const config: Config = {
           items: [
             {
               label: 'Tutorial',
-              to: '/docs/intro',
+              to: 'https://docs.khaleejvacc.net/',
             },
           ],
         },
@@ -98,16 +98,16 @@ const config: Config = {
           title: 'Community',
           items: [
             {
-              label: 'Stack Overflow',
-              href: '/blog',
-            },
-            {
               label: 'Discord',
-              href: '/blog',
+              href: 'https://community.vatsim.net/',
             },
             {
-              label: 'Twitter',
-              href: '/blog',
+              label: 'Instagram',
+              href: 'https://www.instagram.com/khaleejvacc/',
+            },
+            {
+              label: 'TikTok',
+              href: 'https://www.tiktok.com/@khaleejvacc',
             },
           ],
         },
@@ -115,12 +115,8 @@ const config: Config = {
           title: 'More',
           items: [
             {
-              label: 'Blog',
-              to: '/blog',
-            },
-            {
               label: 'GitHub',
-              href: '/blog',
+              href: 'https://github.com/khaleej-vacc',
             },
           ],
         },

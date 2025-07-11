@@ -13,8 +13,7 @@ Bahrain has 3 stars. They are applicable to both 12L and 30R.
 |       Eastern Arrivals          |       ORDIG1       |
 |      Northern Arrivals        |       KOBOK1        |
 |      Western Arrivals        |       LADNA1        |
-
-
+####	
 A heading of **120°** will be flown after **NAGAT** in the 30L configuration unless advised otherwise by ATC.
 
 When 12L is being used, a heading of **300°** will be flown after **ALRAS** unless told otherwise by ATC.
@@ -38,15 +37,15 @@ Due to Bahrain’s small TMA, pilots are advised to remain vigilant and maintain
 
 ### Speed Restrictions
 
-::::info Note:
-Pilots may be asked to maintain a speed until a certain mile final (e.g. 160 Knots until 4 DME).
-::::
-
 |     **Speeds**     |   **Position**   |
 |:---------------------------:|:---------------------:|
 |       230 - 210 Knots          |       Entering the TMA       |
 |      210 - 190 Knots        |       Downwind leg        |
 |      190 - 160 Knots        |       Final Approach        |
+####	
+::::info Note:
+Pilots may be asked to maintain a speed until a certain mile final (e.g. 160 Knots until 4 DME).
+::::
 
 ---
 

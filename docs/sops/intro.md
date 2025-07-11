@@ -26,7 +26,7 @@ Restricted and prohibited areas within the FIRs
 
 🛬 Arrival & Departure Management
 
-Preferred STARs and SIDs for major airports, including OKBK (Kuwait) and OBBI (Bahrain)
+Preferred STARs and SIDs for major airports, including OKKK (Kuwait) and OBBI (Bahrain)
 Runway usage preferences based on prevailing conditions
 Holdings, sequencing, and metering procedures
 
